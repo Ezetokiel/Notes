@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display:ital@1&family=Poppins:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'poppins', sans-serif;
+    height: 100%;
+    background-color: #9ad5fb;
+}
+
+li, a{
+    text-decoration: none;
+    color: #003856;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header nav ul{
+    list-style: none;
+}
+
+header nav ul li{
+    display: inline-block;
+    margin: 20px 12px;
+    font-size: 18px;
+}
+
+header nav ul li a{
+    transition: all 0.3s ease 0s;
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+
+header nav ul li a:hover, header nav ul li a:active{
+    background-color: #629ec2;
+}
+
+.current-page{
+    background-color: #629ec2;
+}
+
+.main-content{
+    padding: 2.5vh 5vw;
+}
+
+.first-container{
+    margin: 6vh 0;
+}
+
+.containers{
+    margin-bottom: 6vh;
+}
+
+.sub-factors-container{
+    background-color: #ebebe8;
+    margin-bottom: 3vh;
+    padding: 3vh 3vw;
+    border-radius: 16px;
+    height: fit-content;
+}
+
+.headers{
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.list-numbers{
+    font-size: 28px;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+p{
+    font-size: 24px;
+    font-weight: 300;
+}
+
+button{
+    margin: 2vh 1vw 2vh 0;
+    background-color: #629ec2;
+    padding: 1.5vh 1.5vw;
+    font-size: 16px;
+    border-radius: 16px;
+    border: none;
+}
+
+button:active, button:hover{
+    background-color: #417798;
+    transition: 0.3s;
+}
+
+.links{
+    text-decoration: underline;
+}
+
+.links:hover, .links:active{
+    text-decoration: underline;
+    color: #629ec2;
+    transition: 0.3s;
+}
