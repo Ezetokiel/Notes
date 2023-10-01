@@ -56,7 +56,7 @@ const subFactorTwo = `<p class="headers">Sub Factor 2: A strong sense of belongi
 <p>-It helps maintain a balanced mix of people from different races in each HDB estate.</p><br>
 
 <p class="list-numbers">EIP's Quota:</p>
-<p>- if Indian residents make up approximately 9% of the populatoin, roughly 9% of the flats in a given area will be designated for Indian households. (Chinese 74%, Malay 15%, others 25%)</p>
+<p>- if Indian residents make up approximately 9% of the populatoin, roughly 9% of the flats in a given area will be designated for Indian households. (Chinese 74.3%, Malay 13.5%, Indians 9%, others 3.2%)</p>
 <p>- based on this system there won't be any single ethnic group dominating a neighbourhood, which maintains a balanced mix of various races of people in each HDB estate</p><br>
 
 <p class="list-numbers">*Purpose of the EIP*:</p>
