@@ -62,7 +62,7 @@ const subFactorTwo = `<p class="headers">Sub Factor 2: A strong sense of belongi
 <p class="list-numbers">*Purpose of the EIP*:</p>
 <p>-The EIP is meant to promote racial harmony and integration among Singaporeans.</p>
 <p>-By ensuring a mix of races in HDB estates, it encourages people from different ethnic backgrounds to interact and get to know each other.</p>
-<p>-The ultimate goal is to build strong relationships among residents and create a harmonious society.</p>
+<p>-The ultimate goal is to build strong relationships among residents and create a harmonious society.</p><br>
 <button onclick="subFactorOneFunction()">Sub Factor 1</button>
 <button onclick="subFactorTwoFunction()">Sub Factor 2</button>
 <button onclick="subFactorThreeFunction()">Sub Factor 3</button>`
